@@ -2,6 +2,10 @@
 
 This is a Morse code translator web application coded in JavaScript, HTML, and CSS.
 
+## Preview
+
+![Screenshot 2024-07-26 at 12 21 52](https://github.com/user-attachments/assets/cf3e09d3-0896-4788-8679-f6ca8a36f17d)
+
 ## Features
 
 - Translate text from Latin alphabet to Morse code and vice versa
@@ -27,6 +31,4 @@ This is a Morse code translator web application coded in JavaScript, HTML, and C
 Contributions are welcome! If you find any bugs or want to improve the translator, feel free to open an issue or submit a pull request. :)
 
 
-
-![Screenshot 2024-07-26 at 12 21 52](https://github.com/user-attachments/assets/cf3e09d3-0896-4788-8679-f6ca8a36f17d)
 
